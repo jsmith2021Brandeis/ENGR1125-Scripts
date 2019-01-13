@@ -1,6 +1,6 @@
 ENGR 1125 Matlab Library
 =============
-+ This Library of functions generates Matlab plots useful in my Introduction to Sensors Instrumentation and Measurment Class, including
++ This Library of functions generates [Matlab](https://www.mathworks.com/products/matlab.html) plots useful in my Introduction to Sensors Instrumentation and Measurment Class, including
 	+ bode plots 
 	+ XY plots
 	+ calibration plots
