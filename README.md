@@ -10,3 +10,4 @@ ENGR 1125 Matlab Library
 + [The class website](http://isim.olin.edu/index.shtml)  
 +  Written by Jacob Smith 
 	+ jsmith2021@brandeis.edu
++ ![Circuit Picture](CIRCUITEKG.PNG)
