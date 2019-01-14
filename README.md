@@ -5,6 +5,7 @@ ENGR 1125 Matlab Library
 	+ XY plots
 	+ calibration plots
 	+ reading csv files, without requirement that file is all numbers
++ I also included an Excel spreadsheet that is used to calculate the resistor and capacitor values in a band pass filter
 + The functions all read csv files from sesnsor data generates in the [waveforms](https://reference.digilentinc.com/reference/software/waveforms/waveforms-3/start) software
 + [The class website](http://isim.olin.edu/index.shtml)  
 +  Written by Jacob Smith 
