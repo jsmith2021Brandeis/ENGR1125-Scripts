@@ -1,4 +1,4 @@
-Bode Plot Folder
+Calibration Plot Folder
 =============
 + Calibration Plot Example
 	+ This plot combines the genCalibrationPlot and addLineOfFit functions to plot two vectors of related measurments and add a rough line of fit
