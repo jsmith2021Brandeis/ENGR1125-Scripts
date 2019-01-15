@@ -1,8 +1,9 @@
-File I Plot Folder
+File Input Folder
 =============
-+ XY Plot Example
-	+ This plot was generated using the genXYPLotFromFile function, which uses a file from the XY collection function in waveforms
-	+ ![XY Plot](XYPLOTPSET6.PNG)
++ These functions allow the oscilloscope data from an instrument in waveforms to be used properly
+	+ ![sample oscilloscope file](PulsingCRHumidity.PNG)
+	+ The readFile function finds the row to read the file at after the header
+	+ The startZero function sets the time column to start at 0, because it doesn't here
 
 +  Written by Jacob Smith 
 	+ jsmith2021@brandeis.edu
