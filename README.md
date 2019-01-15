@@ -18,4 +18,3 @@ ENGR 1125 Matlab Library
 		+ ![Client Script Example](HumidityLabScript.PNG)
 +  Written by Jacob Smith 
 	+ jsmith2021@brandeis.edu
-+ ![Circuit Picture](CircuitEKG.PNG)
